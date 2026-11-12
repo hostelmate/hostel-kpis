@@ -1,0 +1,19 @@
+{
+  "name": "hostel-kpis",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "description": "Formulas for hostel KPIs: occupancy, bed ADR, RevPAB, TRevPAB, ALOS, CPOB, break-even, OTA commission, linen PAR.",
+  "homepage": "https://hostelmate.co/tools",
+  "license": "MIT",
+  "author": "HostelMate (https://hostelmate.co)",
+  "keywords": [
+    "hostel",
+    "hospitality",
+    "revpab",
+    "occupancy",
+    "adr",
+    "kpi",
+    "hotel-metrics"
+  ]
+}
